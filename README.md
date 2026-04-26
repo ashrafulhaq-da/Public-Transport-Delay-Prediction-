@@ -78,11 +78,8 @@ The dataset includes multiple features such as:
 * Found that weather and traffic are major contributors to delays
 * Generated insights that can support better transport planning
 
----
-
-## 📷 Sample Visualizations
-
-*(Add screenshots here from your notebook — VERY IMPORTANT)*
+ 
+ 
 
 ---
 
@@ -94,16 +91,6 @@ The dataset includes multiple features such as:
 
 ---
 
-## 🔗 Project Link
-
-GitHub Repository: https://github.com/ashrafulhaq-da/your-project-link
-
----
-
-## 👤 Author
-
-**Md. Ashraful Haq**
-Aspiring Data Scientist
-
+ 
 * LinkedIn: https://www.linkedin.com/in/md-ashraful-haq-80954b339/
 * GitHub: https://github.com/ashrafulhaq-da
