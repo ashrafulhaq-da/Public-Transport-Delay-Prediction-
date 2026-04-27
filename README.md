@@ -78,10 +78,6 @@ The dataset includes multiple features such as:
 * Generated insights that can support better transport planning
 
  
- 
-![Uploading Screenshot 2026-03-30 222709.png…]()
-
-
 
 🚀 Future Improvements
 
